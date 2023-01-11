@@ -1,0 +1,11 @@
+.failWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50%;
+    gap: 20px;
+}
+svg {
+    scale: 2;
+}
